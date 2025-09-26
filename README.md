@@ -11,17 +11,17 @@ Features
 
 Repository Structure:
 ASL_Sign_Language_Detector/
-│── step1_capturedataset.py       # Capture ASL gesture images
-│── step2_train_model.py          # Train CNN model on gestures
-│── step3_predict_from_webcam.py  # Real-time prediction via webcam
-│── step4_dualpersonality.py      # Detect signs from two people
-│── step4.5_generategraph.py      # Plot accuracy/loss graphs
-│── step5_gui.py                  # Simple GUI for sign detection
-│── step6_streamlit_2ppl.py       # Streamlit app for 2-person detection
-│── finger_spelling_modellll_finall.h5   # Trained model
-│── label_encoderrrr_finall.pkl          # Label encoder
-|── Report - Real Time Sign Language Detection.pdf
-│── Final Real-time Sign Language Gesture Detection.pdf
+- step1_capturedataset.py       # Capture ASL gesture images
+- step2_train_model.py          # Train CNN model on gestures
+- step3_predict_from_webcam.py  # Real-time prediction via webcam
+- step4_dualpersonality.py      # Detect signs from two people
+- step4.5_generategraph.py      # Plot accuracy/loss graphs
+- step5_gui.py                  # Simple GUI for sign detection
+- step6_streamlit_2ppl.py       # Streamlit app for 2-person detection
+- finger_spelling_modellll_finall.h5   # Trained model
+- label_encoderrrr_finall.pkl          # Label encoder
+- Report - Real Time Sign Language Detection.pdf
+- Final Real-time Sign Language Gesture Detection.pdf
 
 
 Installation & Setup
