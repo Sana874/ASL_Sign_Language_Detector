@@ -20,7 +20,7 @@ ASL_Sign_Language_Detector/
 │── step6_streamlit_2ppl.py       # Streamlit app for 2-person detection
 │── finger_spelling_modellll_finall.h5   # Trained model
 │── label_encoderrrr_finall.pkl          # Label encoder
-│── Report - Real Time Sign Language Detection.pdf
+|── Report - Real Time Sign Language Detection.pdf
 │── Final Real-time Sign Language Gesture Detection.pdf
 
 
@@ -30,7 +30,7 @@ Installation & Setup
 git clone https://github.com/Sana874/ASL_Sign_Language_Detector.git
 cd ASL_Sign_Language_Detector
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r opencv-python mediapipe tensorflow numpy pickle-mixin streamlit
 
 Run desired scripts:
